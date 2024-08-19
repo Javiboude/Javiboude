@@ -6,7 +6,7 @@ I'm a programing student who is learning about back programing  front programing
 
 - 📍 &nbsp; Living in Madrid.
 - 🎓 &nbsp; I’m currently a junior student of Multiplattform Apps Development, at U-tad University.
-- ✉️ You can contact me at javierboudere@gmail.com
+- ✉️ &nbsp; You can contact me at javierboudere@gmail.com
 
 ### 📋 Programming languages
 
