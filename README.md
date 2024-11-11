@@ -69,3 +69,5 @@ I'm a programing student who is passionate about back programing  front programi
     <img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiboude&count_private=true&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources)](https://github.com/anuraghazra/github-readme-stats)
