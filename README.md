@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! I'm Javier Boudere Llorente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8ae0383e-9ef9-4881-9162-c49c367d2da9">
+  <img src="https://github.com/user-attachments/assets/43b80c76-b7f4-416d-abb8-e9586bc8c2de">
 </div>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> About Me
@@ -50,4 +50,5 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiboude&count_private=true&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiboude&count_private=true&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources)](https://github.com/anuraghazra/github-readme-stats)
+
