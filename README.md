@@ -25,12 +25,12 @@
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-	  <img alt="Swift" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFVjtiHusLWziL5y5eCQghhEInfBrYOpBBfV8ig6WEJc7i4csQZcu9d28d47dsfMODw&usqp=CAU" width="60">
+  <a> 
+	  <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" width= "70"/>
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Kotlin" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWlAKpbqA-T8osQuKrxVWXvzY5rceTXwHuAZamo3ohP30icpMwK22HRosDpPnC22QzNg&usqp=CAU" width="70">
+  <a>
+    <img src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" width= "70"/>
   </a> 
 </p>
 
@@ -89,6 +89,5 @@
 	<a href="https://github.comJaviboude"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/javierboudere/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/Javier_boudere"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
 </p>
 
