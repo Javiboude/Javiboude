@@ -62,7 +62,9 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiboude&count_private=true&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/Javiboude/github-readme-stats">
+  <img alt="Javiboude Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiboude&langs_count=10&layout=compact" />
+</a>
 
 </div>
 
@@ -70,7 +72,7 @@
 
 <p align="center">
   <a href="https://javiboude.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:javierboudere@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.comJaviboude"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/javierboudere/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/Javier_boudere"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
