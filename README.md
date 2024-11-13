@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! I'm Javier Boudere Llorente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b1800af3-454d-4d22-97c7-b3696c1b63e1" width="6000">
+  <img src="https://github.com/user-attachments/assets/0a5007c8-43f9-470f-957f-4d3d1074ae13" width="6000">
 </div>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> About Me
@@ -19,8 +19,21 @@
 <p align="left"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
-  </a>
 </p>
+
+### 👉 Mobile Development
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+	  <img alt="Swift" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFVjtiHusLWziL5y5eCQghhEInfBrYOpBBfV8ig6WEJc7i4csQZcu9d28d47dsfMODw&usqp=CAU" width="60">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Kotlin" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWlAKpbqA-T8osQuKrxVWXvzY5rceTXwHuAZamo3ohP30icpMwK22HRosDpPnC22QzNg&usqp=CAU" width="70">
+  </a> 
+</p>
+
 
 ### 👉 Frontend Development
 
