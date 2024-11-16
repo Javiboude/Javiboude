@@ -4,6 +4,10 @@
   <img src="https://github.com/user-attachments/assets/5aa82fa8-870d-4d8b-b9b7-025f266b3c34" width="6000">
 </div>
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Javiboude&color=blue&style=flat-square)
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> About Me
 
 - 📍 **Location:** Madrid
@@ -88,6 +92,15 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white">
   </a>
 </p>
+
+##
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiboude&count_private=true&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources)](https://github.com/anuraghazra/github-readme-stats)
+    &emsp;
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javiboude&show_icons=true&hide_title=true&count_private=true&theme=cobalt)
+
+</div>
 
 ## 🙋 Let's Connect
 
