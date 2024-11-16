@@ -20,43 +20,29 @@
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.java.com/" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>   
+  <a href="https://www.java.com/" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>   
   &emsp;
-  <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
+  <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 
 ### 👉 Mobile Development
 
 <p align="left"> 
   &emsp; 
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white">
-  </a>   
+  <a href="https://kotlinlang.org/" target="_blank"> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>   
   &emsp;
-  <a href="https://developer.apple.com/swift/" target="_blank">
-    <img alt="Swift" src="https://img.shields.io/badge/Swift-%23FA7343.svg?logo=swift&logoColor=white">
-  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img alt="Swift" src="https://img.shields.io/badge/Swift-%23FA7343.svg?logo=swift&logoColor=white"></a>
 </p>
 
 ### 👉 Frontend Development
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a>   
   &emsp;
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
    &emsp;
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+  <a href="https://getbootstrap.com/" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
 </p>
 
 ### 👉 Databases
@@ -72,25 +58,15 @@
 
 <p align="left">
   &emsp;
-    <a href="https://git-scm.com/" target="_blank">
-      <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
-    </a>
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-   <a href="https://github.com/" target="_blank">
-     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
-   </a>
-	&emsp;
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white">
-  </a>
+   <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
   &emsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>
+  <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white"></a>
   &emsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white">
-  </a>
+  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
 </p>
 
 ##
