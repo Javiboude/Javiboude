@@ -54,7 +54,7 @@
    <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
-### 👉 Tools
+### 👉 Tools & Technologies
 
 <p align="left">
   &emsp;
