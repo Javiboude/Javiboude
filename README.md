@@ -69,13 +69,17 @@
   <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
 </p>
 
-##
+## 🛩️ Currently studing
+&emsp;
+<a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+</a>
+
 <div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiboude&count_private=true&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources)](https://github.com/anuraghazra/github-readme-stats)
-    &emsp;
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javiboude&show_icons=true&hide_title=true&count_private=true&theme=cobalt)
-
+  &emsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiboude&count_private=true&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources" alt="Top Languages" />
+  &emsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Javiboude&show_icons=true&hide_title=true&count_private=true&theme=cobalt" alt="GitHub Stats" />
 </div>
 
 ## 🙋 Let's Connect
