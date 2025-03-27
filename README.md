@@ -30,8 +30,6 @@
 <p align="left"> 
   &emsp; 
   <a href="https://kotlinlang.org/" target="_blank"> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>   
-  &emsp;
-  <a href="https://developer.apple.com/swift/" target="_blank"><img alt="Swift" src="https://img.shields.io/badge/Swift-%23FA7343.svg?logo=swift&logoColor=white"></a>
 </p>
 
 ### 👉 Frontend Development
@@ -61,12 +59,6 @@
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
    <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-  &emsp;
-  <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
 </p>
 
 ## 🛩️ Currently studing
