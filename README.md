@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! I'm Javier Boudere Llorente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5aa82fa8-870d-4d8b-b9b7-025f266b3c34" width="6000">
+  <img src="https://github.com/user-attachments/assets/900f6bfe-21c2-4e54-bf5e-de4e24baeb72" width=3000">
 </div>
 
 <br>
